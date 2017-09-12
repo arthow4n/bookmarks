@@ -2,6 +2,14 @@
 
 網路文章和書目收集
 
+## JavaScript
+
+### React Ecosystem
+
+- [在 2017 年学习 React + Redux 的一些建议（上篇） - WEB前端 - 伯乐在线](http://web.jobbole.com/92375/)
+- [在 2017 年学习 React + Redux 的一些建议（中篇） - WEB前端 - 伯乐在线](http://web.jobbole.com/92383/)
+- [在 2017 年学习 React + Redux 的一些建议（下篇） - WEB前端 - 伯乐在线](http://web.jobbole.com/92385/)
+
 ## 軟體工程想法
 
 ### 過度工程化
