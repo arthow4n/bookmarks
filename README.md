@@ -1,6 +1,6 @@
 # bookmarks
 
-網路文章和書目收集
+網路文章、網站和書目收集
 
 ## JavaScript
 
@@ -16,3 +16,9 @@
 ### 過度工程化
 
 - [YAGNI, Cargo Cult and Overengineering - the Planes Won't Land Just Because You Built a Runway in Your Backyard](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/)
+
+## Working aboard / 海外工作
+
+### 生活資訊
+
+- Numbeo [Cost of Living](https://www.numbeo.com/cost-of-living/) - Numbeo is the world’s largest database of user contributed data about cities and countries worldwide. Numbeo provides current and timely information on world living conditions including cost of living, housing indicators, health care, traffic, crime and pollution.
