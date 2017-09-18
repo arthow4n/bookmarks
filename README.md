@@ -25,3 +25,7 @@
 ### 生活資訊
 
 - Numbeo [Cost of Living](https://www.numbeo.com/cost-of-living/) - Numbeo is the world’s largest database of user contributed data about cities and countries worldwide. Numbeo provides current and timely information on world living conditions including cost of living, housing indicators, health care, traffic, crime and pollution.
+
+### 歐洲
+
+- 歐盟藍卡 [Highly-Qualified Workers - EU Blue Card](http://www.eu-bluecard.com/highly-qualified-workers/)
