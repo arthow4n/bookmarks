@@ -11,6 +11,9 @@
 - [在 2017 年学习 React + Redux 的一些建议（下篇） - WEB前端 - 伯乐在线](http://web.jobbole.com/92385/)
 - [Some Thoughts On Testing React/Redux Applications – JavaScript Inside – Medium](https://medium.com/javascript-inside/some-thoughts-on-testing-react-redux-applications-8571fbc1b78f)
 
+#### BSD + Patent(s) License
+- [3 Points to Consider before Migrating Away from React Because of Facebook’s ‘BSD+ Patent’ License](https://blog.cloudboost.io/3-points-to-consider-before-migrating-away-from-react-because-of-facebooks-bsd-patent-license-b4a32562d268)
+
 ## 軟體工程想法
 
 ### 過度工程化
