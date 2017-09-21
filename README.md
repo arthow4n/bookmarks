@@ -16,7 +16,13 @@
 
 ## 軟體工程想法
 
-### 過度工程化
+### 問題解決 / Problem Solving
+
+- [How to ask good questions - Julia Evans](https://jvns.ca/blog/good-questions/)
+- [How to answer questions in a helpful way - Julia Evans](https://jvns.ca/blog/answer-questions-well/)
+- [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
+
+### 過度工程化 / Over-Engineering
 
 - [YAGNI, Cargo Cult and Overengineering - the Planes Won't Land Just Because You Built a Runway in Your Backyard](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/)
 
