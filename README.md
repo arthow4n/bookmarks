@@ -13,6 +13,9 @@
 
 #### BSD + Patent(s) License
 - [3 Points to Consider before Migrating Away from React Because of Facebook’s ‘BSD+ Patent’ License](https://blog.cloudboost.io/3-points-to-consider-before-migrating-away-from-react-because-of-facebooks-bsd-patent-license-b4a32562d268)
+- [Relicensing React, Jest, Flow, and Immutable.js | Engineering Blog | Facebook Code](https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/)
+    - > we are going to relicense our open source projects React, Jest, Flow, and Immutable.js under the MIT license
+    - > We'll include the license updates with React 16's release next week.
 
 ## 軟體工程想法
 
