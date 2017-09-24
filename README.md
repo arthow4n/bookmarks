@@ -25,6 +25,7 @@
 ### 過度工程化 / Over-Engineering
 
 - [YAGNI, Cargo Cult and Overengineering - the Planes Won't Land Just Because You Built a Runway in Your Backyard](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/)
+- [xkcd: Is It Worth the Time?](https://xkcd.com/1205/)
 
 ## Working aboard / 海外工作
 
