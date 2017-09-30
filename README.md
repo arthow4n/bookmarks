@@ -15,8 +15,8 @@
 - [3 Points to Consider before Migrating Away from React Because of Facebook’s ‘BSD+ Patent’ License](https://blog.cloudboost.io/3-points-to-consider-before-migrating-away-from-react-because-of-facebooks-bsd-patent-license-b4a32562d268)
 - [Relicensing React, Jest, Flow, and Immutable.js | Engineering Blog | Facebook Code](https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/)
     - > we are going to relicense our open source projects React, Jest, Flow, and Immutable.js under the MIT license
-    - > We'll include the license updates with React 16's release next week.
-
+    - > We'll include the license updates with React 16's release
+    
 ## 軟體工程想法
 
 ### 問題解決 / Problem Solving
@@ -29,6 +29,7 @@
 
 - [YAGNI, Cargo Cult and Overengineering - the Planes Won't Land Just Because You Built a Runway in Your Backyard](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/)
 - [xkcd: Is It Worth the Time?](https://xkcd.com/1205/)
+- [Small Functions considered Harmful – Cindy Sridharan – Medium](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29)
 
 ## Working aboard / 海外工作
 
