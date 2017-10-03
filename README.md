@@ -4,6 +4,10 @@
 
 ## JavaScript
 
+### (Design) Patterns
+
+- [Building Consumable JavaScript APIs - Sessions by Pusher](https://pusher.com/sessions/meetup/front-end-london/building-consumable-javascript-apis)
+
 ### React Ecosystem
 
 - [在 2017 年学习 React + Redux 的一些建议（上篇） - WEB前端 - 伯乐在线](http://web.jobbole.com/92375/)
