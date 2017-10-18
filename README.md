@@ -25,9 +25,12 @@
 
 ### 問題解決 / Problem Solving
 
+#### 問問題 / 答問題 
+
 - [How to ask good questions - Julia Evans](https://jvns.ca/blog/good-questions/)
 - [How to answer questions in a helpful way - Julia Evans](https://jvns.ca/blog/answer-questions-well/)
 - [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
+- [How awesome engineers ask for help – Hacker Noon](https://hackernoon.com/how-awesome-engineers-ask-for-help-93bcb2c7dbb7)
 
 ### 過度工程化 / Over-Engineering
 
