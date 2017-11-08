@@ -20,7 +20,12 @@
 - [Relicensing React, Jest, Flow, and Immutable.js | Engineering Blog | Facebook Code](https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/)
     - > we are going to relicense our open source projects React, Jest, Flow, and Immutable.js under the MIT license
     - > We'll include the license updates with React 16's release
-    
+
+## Utilities
+
+- https://github.com/k88hudson/git-flight-rules
+  - > A guide for astronauts (now, programmers using git) about what to do when things go wrong.
+
 ## 軟體工程想法
 
 ### 問題解決 / Problem Solving
