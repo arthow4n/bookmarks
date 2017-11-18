@@ -14,6 +14,7 @@
 - [在 2017 年学习 React + Redux 的一些建议（中篇） - WEB前端 - 伯乐在线](http://web.jobbole.com/92383/)
 - [在 2017 年学习 React + Redux 的一些建议（下篇） - WEB前端 - 伯乐在线](http://web.jobbole.com/92385/)
 - [Some Thoughts On Testing React/Redux Applications – JavaScript Inside – Medium](https://medium.com/javascript-inside/some-thoughts-on-testing-react-redux-applications-8571fbc1b78f)
+- [React Stack 開發體驗與優化策略 – Michael Hsu – Medium](https://medium.com/@evenchange4/react-stack-%E9%96%8B%E7%99%BC%E9%AB%94%E9%A9%97%E8%88%87%E5%84%AA%E5%8C%96%E7%AD%96%E7%95%A5-b056da2fa0aa)
 
 #### BSD + Patent(s) License
 - [3 Points to Consider before Migrating Away from React Because of Facebook’s ‘BSD+ Patent’ License](https://blog.cloudboost.io/3-points-to-consider-before-migrating-away-from-react-because-of-facebooks-bsd-patent-license-b4a32562d268)
@@ -25,6 +26,10 @@
 
 - https://github.com/k88hudson/git-flight-rules
   - > A guide for astronauts (now, programmers using git) about what to do when things go wrong.
+  
+## Services
+
+- [Netlify: All-in-one platform for automating modern web projects.](https://www.netlify.com/)
 
 ## 軟體工程想法
 
