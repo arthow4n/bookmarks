@@ -27,6 +27,17 @@
 - https://github.com/k88hudson/git-flight-rules
   - > A guide for astronauts (now, programmers using git) about what to do when things go wrong.
   
+  
+## Front-end (general)
+
+### Responsive Image
+
+- https://github.com/filamentgroup/imaging-heap
+  - > A command line tool to measure the efficiency of your responsive image markup across viewport sizes and device pixel ratios.
+
+- https://chrome.google.com/webstore/detail/ncc-image-checker/fphiheficgnpphmjdliclanppccfgifl
+  - > This tool scans a whole page to identify all images and highlights those that are sent at the wrong size.
+  
 ## Services
 
 - [Netlify: All-in-one platform for automating modern web projects.](https://www.netlify.com/)
