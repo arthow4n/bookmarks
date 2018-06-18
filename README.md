@@ -38,6 +38,8 @@
 - https://chrome.google.com/webstore/detail/ncc-image-checker/fphiheficgnpphmjdliclanppccfgifl
   - > This tool scans a whole page to identify all images and highlights those that are sent at the wrong size.
   
+- [Making Photos Smaller Without Quality Loss](https://engineeringblog.yelp.com/2017/06/making-photos-smaller.html)
+  
 ## Services
 
 - [Netlify: All-in-one platform for automating modern web projects.](https://www.netlify.com/)
