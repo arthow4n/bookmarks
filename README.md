@@ -37,9 +37,17 @@
 
 - https://chrome.google.com/webstore/detail/ncc-image-checker/fphiheficgnpphmjdliclanppccfgifl
   - > This tool scans a whole page to identify all images and highlights those that are sent at the wrong size.
-  
+
+### Image Compression
+
 - [Making Photos Smaller Without Quality Loss](https://engineeringblog.yelp.com/2017/06/making-photos-smaller.html)
-  
+- [Reducing JPG File size – Colt McAnlis – Medium](https://medium.com/@duhroach/reducing-jpg-file-size-e5b27df3257c)
+- [Reducing Image File Size at Etsy - Code as Craft](https://codeascraft.com/2017/05/30/reducing-image-file-size-at-etsy/)
+- https://github.com/google/butteraugli
+  - > butteraugli estimates the psychovisual difference between two images
+- https://github.com/kornelski/dssim
+  - > Image similarity comparison simulating human perception (multiscale SSIM in Rust)
+
 ## Services
 
 - [Netlify: All-in-one platform for automating modern web projects.](https://www.netlify.com/)
