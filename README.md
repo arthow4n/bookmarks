@@ -78,3 +78,9 @@
 ### 歐洲
 
 - 歐盟藍卡 [Highly-Qualified Workers - EU Blue Card](http://www.eu-bluecard.com/highly-qualified-workers/)
+
+## General Learning Strategies
+
+### Spaced Repetition
+
+- [How To Remember Anything Forever-ish](https://ncase.me/remember/)
