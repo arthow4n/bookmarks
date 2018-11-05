@@ -79,6 +79,10 @@
 
 - 歐盟藍卡 [Highly-Qualified Workers - EU Blue Card](http://www.eu-bluecard.com/highly-qualified-workers/)
 
+### 英國
+
+- [如何在英國找到軟體工程師的工作？(概念篇) – 闌珊處- – Medium](https://medium.com/dimly-lit/how-to-find-jobs-in-uk-chap-concept-8961894f2749)
+
 ## General Learning Strategies
 
 ### Spaced Repetition
