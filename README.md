@@ -96,3 +96,11 @@
 ### Spaced Repetition
 
 - [How To Remember Anything Forever-ish](https://ncase.me/remember/)
+
+## Language Learning Resources
+
+### English
+
+- https://fraze.it/ - Improve your writing skills, learn from professional writers. With more than 100 millions sentences, this is the most advanced platform for sentences on the net. Useful to the writing community, from professional writers to college and ESL students & teachers.
+- https://youglish.com/ - Use YouTube to improve your English pronunciation. With more than 30M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.
+
