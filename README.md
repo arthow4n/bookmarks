@@ -71,6 +71,10 @@
 
 ## Working aboard / 海外工作
 
+### 簽證
+
+- 青年度假打工 - 度假打工資訊 https://www.youthtaiwan.net/WorkingHoliday/Cus_WHMap.aspx?n=4892E8B8F5C0E174&sms=14F997EC59624E90
+
 ### 生活資訊
 
 - Numbeo [Cost of Living](https://www.numbeo.com/cost-of-living/) - Numbeo is the world’s largest database of user contributed data about cities and countries worldwide. Numbeo provides current and timely information on world living conditions including cost of living, housing indicators, health care, traffic, crime and pollution.
