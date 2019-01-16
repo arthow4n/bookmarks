@@ -4,6 +4,10 @@
 
 ## JavaScript
 
+### Backend
+
+- https://github.com/hapijs/shot - Injects a fake HTTP request/response into your node server logic
+
 ### (Design) Patterns
 
 - [Building Consumable JavaScript APIs - Sessions by Pusher](https://pusher.com/sessions/meetup/front-end-london/building-consumable-javascript-apis)
