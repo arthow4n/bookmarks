@@ -83,6 +83,8 @@
 
 - Numbeo [Cost of Living](https://www.numbeo.com/cost-of-living/) - Numbeo is the world’s largest database of user contributed data about cities and countries worldwide. Numbeo provides current and timely information on world living conditions including cost of living, housing indicators, health care, traffic, crime and pollution.
 
+- IYTC https://www.isic.com.tw/jsp/tw/home/en/the-cards.jsp - Not a student? Don’t worry! If you are 30 years old or younger you are eligible for an International Youth Travel card (IYTC). With an IYTC youth card, you’re still part of the great ISIC global community with over 5.2 million users Worldwide. You can take advantage of thousands of similar benefits, services and savings that the ISIC student card offers.. Don’t forget to carry your card around with you! international discounts.
+
 ### 歐洲
 
 - 歐盟藍卡 [Highly-Qualified Workers - EU Blue Card](http://www.eu-bluecard.com/highly-qualified-workers/)
