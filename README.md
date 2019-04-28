@@ -115,3 +115,21 @@
 - https://fraze.it/ - Improve your writing skills, learn from professional writers. With more than 100 millions sentences, this is the most advanced platform for sentences on the net. Useful to the writing community, from professional writers to college and ESL students & teachers.
 - https://youglish.com/ - Use YouTube to improve your English pronunciation. With more than 30M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.
 
+#### Online Tutors (Platform)
+
+- [English Tutors Online - Cambly](https://www.cambly.com/english)
+- [Engoo Online English](https://engoo.com/)
+- [italki: Learn a language online](https://www.italki.com/home)
+
+#### IELTS
+ 
+- (My own article) [\[心得\] 首戰7.5 UKVI Academic 電腦考 - 看板 IELTS - 批踢踢實業坊](https://www.ptt.cc/bbs/IELTS/M.1556300283.A.C20.html)
+  - [IELTS Scoring Calculate your band score](https://www.ielts.org/ielts-for-organisations/ielts-scoring-in-detail)
+  - [Computer-delivered sample test questions | Take IELTS](https://takeielts.britishcouncil.org/computer-delivered-sample-test-questions)
+  - [ielts-simon.com](https://ielts-simon.com/)
+    - [IELTS Writing Task 1: 9 sentences - ielts-simon.com](https://ielts-simon.com/ielts-help-and-english-pr/2015/02/ielts-writing-task-1-9-sentences.html)
+    - [IELTS Writing Task 2: 13 sentences - ielts-simon.com](https://ielts-simon.com/ielts-help-and-english-pr/2015/02/ielts-writing-task-2-13-sentences.html)
+    - [IELTS Writing Task 2: my mental picture - ielts-simon.com](https://ielts-simon.com/ielts-help-and-english-pr/2018/03/ielts-writing-task-2-my-mental-picture.html)
+  - Oxford Online English [IELTS exam lessons - YouTube](https://www.youtube.com/playlist?list=PLD6t6ckHsruYbd2TIXMcD63uFXjyIpRhQ)
+  - 機考軟體 [【小站雅思练习官网】雅思在线辅导学雅思ielts_剑桥雅思考试真题及答案解析_雅思学习哪里好](https://top.zhan.com/ielts/)
+  - 口說手機 app [雅思哥_海量雅思考题_精品雅思课程_雅思官方力荐学习平台](https://www.ieltsbro.com/)
