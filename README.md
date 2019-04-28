@@ -93,6 +93,11 @@
 
 - [如何在英國找到軟體工程師的工作？(概念篇) – 闌珊處- – Medium](https://medium.com/dimly-lit/how-to-find-jobs-in-uk-chap-concept-8961894f2749)
 
+#### Tier 2 (General) Visa
+
+- [General work visa (Tier 2) - GOV.UK](https://www.gov.uk/tier-2-general)
+- [Register of licensed sponsors: workers - GOV.UK](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
+
 #### Tier 5 YMS Visa
 - https://www.gov.uk/government/news/youth-mobility-scheme-2019-for-taiwanese-youth
 - [英國打工度假－申請到領取居留許可證 (BRP)，申請範本到入境海關歷程全記錄](https://blog.twsiyuan.com/2018/07/apply-for-uk-youth-mobility-scheme.html)
