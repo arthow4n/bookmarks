@@ -87,7 +87,7 @@
 
 ### 歐洲
 
-- 歐盟藍卡 [Highly-Qualified Workers - EU Blue Card](http://www.eu-bluecard.com/highly-qualified-workers/)
+- 歐盟藍卡 Blue Card [Essential information | EU Immigration Portal](https://ec.europa.eu/immigration/blue-card/essential-information_en)
 
 ### 英國
 
