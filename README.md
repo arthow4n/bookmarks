@@ -31,6 +31,13 @@
 - https://github.com/k88hudson/git-flight-rules
   - > A guide for astronauts (now, programmers using git) about what to do when things go wrong.
   
+## Databases
+
+### SQL
+
+- [Modern SQL: A lot has changed since SQL-92](https://modern-sql.com/)
+- [SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...](https://use-the-index-luke.com/)
+  
   
 ## Front-end (general)
 
