@@ -140,3 +140,10 @@
   - Oxford Online English [IELTS exam lessons - YouTube](https://www.youtube.com/playlist?list=PLD6t6ckHsruYbd2TIXMcD63uFXjyIpRhQ)
   - 機考軟體 [【小站雅思练习官网】雅思在线辅导学雅思ielts_剑桥雅思考试真题及答案解析_雅思学习哪里好](https://top.zhan.com/ielts/)
   - 口說手機 app [雅思哥_海量雅思考题_精品雅思课程_雅思官方力荐学习平台](https://www.ieltsbro.com/)
+
+## 旅遊行程安排
+
+- [Google My Maps](https://www.google.com/maps/d/)
+- [Google Flights](https://www.google.com/flights)
+- [Rome2rio: discover how to get anywhere](https://www.rome2rio.com/)
+
