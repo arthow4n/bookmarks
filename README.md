@@ -58,6 +58,10 @@
   - > butteraugli estimates the psychovisual difference between two images
 - https://github.com/kornelski/dssim
   - > Image similarity comparison simulating human perception (multiscale SSIM in Rust)
+- [Capping image fidelity on ultra-high resolution devices](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/capping-image-fidelity-on-ultra-high-resolution-devices.html)
+  - > This means that most OLED screens that say they are 3x resolution, are actually 3x in the green color, but only 1.5x in the red and blue colors. Showing a 3x resolution image in the app vs a 2x resolution image will be visually the same, though the 3x image takes significantly more data. Even true 3x resolution screens are wasteful as the human eye cannot see that level of detail without something like a magnifying glass.
+  - [Twitter 對 2x 與 3x 的圖片的研究... | Gea-Suan Lin's BLOG](https://blog.gslin.org/archives/2019/05/30/9022/twitter-%e5%b0%8d-2x-%e8%88%87-3x-%e7%9a%84%e5%9c%96%e7%89%87%e7%9a%84%e7%a0%94%e7%a9%b6/)
+ 
 
 ## Services
 
