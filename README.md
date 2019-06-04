@@ -151,3 +151,12 @@
 - [Google Flights](https://www.google.com/flights)
 - [Rome2rio: discover how to get anywhere](https://www.rome2rio.com/)
 
+## Real Life Utilities
+
+### Phone Numbers
+
+- (Global) [Skype Number](https://secure.skype.com/my/skype-number/)
+- (US/Canada) [Burner | Get A Free Phone Number - Fake Temporary Phone Numbers](https://www.burnerapp.com/)
+- (Japan) [Rental SIM in Japan from SoftBank Global Rental](https://www.softbank-rental.jp/en/rental_japan/sim_card.php)
+- (Japan) [スマホの通話料をトコトン安くする | SMARTalk](https://ip-phone-smart.jp/)
+  - No monthly fee, requires a Japan SIM card to sign up.
