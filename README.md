@@ -126,6 +126,39 @@
 - https://fraze.it/ - Improve your writing skills, learn from professional writers. With more than 100 millions sentences, this is the most advanced platform for sentences on the net. Useful to the writing community, from professional writers to college and ESL students & teachers.
 - https://youglish.com/ - Use YouTube to improve your English pronunciation. With more than 30M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.
 
+#### Linters
+
+- https://github.com/amperser/proselint
+- https://github.com/get-alex/alex
+- https://github.com/remarkjs/remark-lint
+    - Sample config (`.remarkrc.js`):
+    ```
+    exports.plugins = [
+      require('remark-frontmatter'),
+      [
+        require('remark-retext'),
+        require('unified')().use({
+          plugins: [
+            require('retext-english'),
+            require('retext-syntax-urls'),
+            [require('retext-spell'), {
+              dictionary: require('dictionary-en-gb'),
+              personal:
+    `
+    `
+            }],
+            [require('retext-sentence-spacing'), { preferred: 1 }],
+            require('retext-repeated-words'),
+            require('retext-usage'),
+          ],
+        }),
+      ],
+      require('remark-preset-lint-consistent'),
+      require('remark-preset-lint-recommended'),
+      require('remark-preset-lint-markdown-style-guide'),
+    ];
+    ```
+
 #### Online Tutors (Platform)
 
 - [English Tutors Online - Cambly](https://www.cambly.com/english)
