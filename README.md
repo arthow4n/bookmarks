@@ -121,6 +121,10 @@
 
 ## Language Learning Resources
 
+### General
+
+- [Stephen Krashen on Language Acquisition - YouTube](https://www.youtube.com/watch?v=NiTsduRreug)
+
 ### English
 
 - https://fraze.it/ - Improve your writing skills, learn from professional writers. With more than 100 millions sentences, this is the most advanced platform for sentences on the net. Useful to the writing community, from professional writers to college and ESL students & teachers.
