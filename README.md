@@ -187,6 +187,7 @@
 - [Google My Maps](https://www.google.com/maps/d/)
 - [Google Flights](https://www.google.com/flights)
 - [Rome2rio: discover how to get anywhere](https://www.rome2rio.com/)
+- [Backpacking: Budget Independent Travel - Advice, guide & packing help](http://www.travelindependent.info/)
 
 ## Real Life Utilities
 
