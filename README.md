@@ -200,3 +200,8 @@
 - (Japan) [Rental SIM in Japan from SoftBank Global Rental](https://www.softbank-rental.jp/en/rental_japan/sim_card.php)
 - (Japan) [スマホの通話料をトコトン安くする | SMARTalk](https://ip-phone-smart.jp/)
   - No monthly fee, requires a Japan SIM card to sign up.
+  
+## 媒體曝光
+
+- [高職學歷，勇闖北歐！高職生自學程式，他拿到瑞典工作簽證｜Meet.jobs 專欄](https://column.meet.jobs/aysh-sweden/)
+  - 經理人轉貼版: [履歷回應率才 10%！高職「差點畢不了業」的他，怎麼成功轉職到北歐？ | 經理人](https://www.managertoday.com.tw/articles/view/59307)
