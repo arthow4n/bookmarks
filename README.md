@@ -117,6 +117,7 @@
 ### General
 
 - [Stephen Krashen on Language Acquisition - YouTube](https://www.youtube.com/watch?v=NiTsduRreug)
+- https://ufal.mff.cuni.cz/udpipe - (NLP) part-of-speech tagging and word/sentence dependency analysing which supports many languages.
 
 ### English
 
@@ -174,6 +175,14 @@
   - Oxford Online English [IELTS exam lessons - YouTube](https://www.youtube.com/playlist?list=PLD6t6ckHsruYbd2TIXMcD63uFXjyIpRhQ)
   - 機考軟體 [【小站雅思练习官网】雅思在线辅导学雅思ielts_剑桥雅思考试真题及答案解析_雅思学习哪里好](https://top.zhan.com/ielts/)
   - 口說手機 app [雅思哥_海量雅思考题_精品雅思课程_雅思官方力荐学习平台](https://www.ieltsbro.com/)
+
+## Swedish
+- https://skrutten.csc.kth.se/fhg/ - Swedish grammar checker
+- https://svenska.se/ - Swedish to Swedish dictionary
+- https://sv.glosbe.com/sv/en - Swedish to/from English dictionary, the quality is not high but it is often useful for finding a word you forget.
+- https://spraakbanken.gu.se/verktyg - Swedish tools
+  - https://github.com/spraakbanken/sparv-pipeline/ - (NLP) Swedish part-of-speech tagging and word/sentence dependency analysing etc.
+  - https://spraakbanken.gu.se/larka/liwrix - LiWriX - Listen and Write Exercise
 
 ## 旅遊行程安排
 
