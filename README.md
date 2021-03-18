@@ -33,7 +33,7 @@
   
 ## Front-end (general)
 
-### Responsive Image
+### Responsive image
 
 - https://github.com/filamentgroup/imaging-heap
   - > A command line tool to measure the efficiency of your responsive image markup across viewport sizes and device pixel ratios.
@@ -41,7 +41,7 @@
 - https://chrome.google.com/webstore/detail/ncc-image-checker/fphiheficgnpphmjdliclanppccfgifl
   - > This tool scans a whole page to identify all images and highlights those that are sent at the wrong size.
 
-### Image Compression
+### Image compression
 
 - [Making Photos Smaller Without Quality Loss](https://engineeringblog.yelp.com/2017/06/making-photos-smaller.html)
 - [Reducing JPG File size – Colt McAnlis – Medium](https://medium.com/@duhroach/reducing-jpg-file-size-e5b27df3257c)
@@ -62,7 +62,7 @@
 
 ## 軟體工程想法
 
-### 問題解決 / Problem Solving
+### 問題解決 / Problem solving
 
 #### 問問題 / 答問題 
 
@@ -106,13 +106,13 @@
 - https://www.gov.uk/government/news/youth-mobility-scheme-2019-for-taiwanese-youth
 - [英國打工度假－申請到領取居留許可證 (BRP)，申請範本到入境海關歷程全記錄](https://blog.twsiyuan.com/2018/07/apply-for-uk-youth-mobility-scheme.html)
 
-## General Learning Strategies
+## General learning strategies
 
-### Spaced Repetition
+### Spaced repetition
 
 - [How To Remember Anything Forever-ish](https://ncase.me/remember/)
 
-## Language Learning Resources
+## Language learning resources
 
 ### General
 
@@ -157,7 +157,7 @@
     ];
     ```
 
-#### Online Tutors (Platform)
+#### Online tutors (Platform)
 
 - [English Tutors Online - Cambly](https://www.cambly.com/english)
 - [Engoo Online English](https://engoo.com/)
@@ -191,9 +191,9 @@
 - [Rome2rio: discover how to get anywhere](https://www.rome2rio.com/)
 - [Backpacking: Budget Independent Travel - Advice, guide & packing help](http://www.travelindependent.info/)
 
-## Real Life Utilities
+## Real life utilities
 
-### Burner Number (Temporary Phone Number) Providers
+### Burner number (temporary phone number) providers
 
 - (Global) [Skype Number](https://secure.skype.com/my/skype-number/)
 - (Global) [Hushed-Private Phone Numbers, Talk, Text and Encrypted Messaging](https://hushed.com/)
