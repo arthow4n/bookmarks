@@ -183,6 +183,7 @@
 - https://spraakbanken.gu.se/verktyg - Swedish tools
   - https://github.com/spraakbanken/sparv-pipeline/ - (NLP) Swedish part-of-speech tagging and word/sentence dependency analysing etc.
   - https://spraakbanken.gu.se/larka/liwrix - LiWriX - Listen and Write Exercise
+- https://soidid.tw/2018/09/05/my-rrrr/ - 如何練習 R 發音 – soidid
 
 ## 旅遊行程安排
 
