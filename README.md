@@ -59,6 +59,7 @@
 
 - [Netlify: All-in-one platform for automating modern web projects.](https://www.netlify.com/)
 - [Glitch](https://glitch.com/) - Like CodePen but for running full stack node app
+- [Fly.io](https://fly.io/docs/about/pricing/) - Like Heroku? But a lot better free tier
 
 ## 軟體工程想法
 
