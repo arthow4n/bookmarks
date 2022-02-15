@@ -205,6 +205,10 @@
 - (Japan) [スマホの通話料をトコトン安くする | SMARTalk](https://ip-phone-smart.jp/)
   - No monthly fee, requires a Japan SIM card to sign up.
   
+## 瑞典, Sweden, Sverige
+- My own article
+  - [從零開始在瑞典考小客車駕照](https://medium.com/@arthow4n/%E5%BE%9E%E9%9B%B6%E9%96%8B%E5%A7%8B%E5%9C%A8%E7%91%9E%E5%85%B8%E8%80%83%E5%B0%8F%E5%AE%A2%E8%BB%8A%E9%A7%95%E7%85%A7-45d797c783b9)
+
 ## 媒體曝光
 
 - [高職學歷，勇闖北歐！高職生自學程式，他拿到瑞典工作簽證｜Meet.jobs 專欄](https://column.meet.jobs/aysh-sweden/)
