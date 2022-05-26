@@ -213,3 +213,4 @@
 
 - [高職學歷，勇闖北歐！高職生自學程式，他拿到瑞典工作簽證｜Meet.jobs 專欄](https://column.meet.jobs/aysh-sweden/)
   - 經理人轉貼版: [履歷回應率才 10%！高職「差點畢不了業」的他，怎麼成功轉職到北歐？ | 經理人](https://www.managertoday.com.tw/articles/view/59307)
+- [The Ergo 44](https://mailchi.mp/zsa/the-ergo-44) - Layout of the month: Sheng's lesser thumb usage layout with åäöé
